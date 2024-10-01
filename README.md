@@ -1,3 +1,3 @@
 JavaScript Mini Projects..
 
-1. 
+1. Colour Switcher
